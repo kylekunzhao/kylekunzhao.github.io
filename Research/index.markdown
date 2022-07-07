@@ -2,7 +2,6 @@
 layout: default
 title: Research Projects
 ---
-Here is a link for [my research statement](./Zhao_Research.pdf) if it doesn't appear automatically (of course it is out-dated).
 
 <!--<style>
 .pdfobject-container {    
