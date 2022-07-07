@@ -12,8 +12,8 @@ Prior to that, I was a Postdoctoral Researcher at the Mathematical Biosciences I
 from 2009 to 2011. I obtained my Ph.D. in Mathematics from the Georgia Institute of Technology in 2009. My B.S. and M.S. 
 degrees were granted by the University of Science and Technology of China in 2001 and 2004, respectively.
 
-My research is generally in the area of nonlinear partial differential equations (PDEs). The primary goal of my research is to 
+I am generally interested in nonlinear partial differential equations (PDEs). The primary goal of my research is to 
 understand the qualitative and quantitative properties of nonlienar PDE models, and how the properties can help interpret 
 real world phenomena. My current research projects are tied to mathematical biology and fluid dynamics, giving priority to 
-chemotaxis, geophyiscal flow, two-phase flow and bio-fluid flows. Alongside mathematical research, I am also keen to educate 
+chemotaxis, geophyiscal, multi-phase and bio-fluid flows. Alongside mathematical research, I am also keen to educate 
 and train young talents. 
