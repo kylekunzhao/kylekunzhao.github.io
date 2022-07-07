@@ -6,9 +6,14 @@ title: Kyle Kun Zhao
 # Welcome!
 
 
-  Test!!! I am an applied analyst. My research expertise is the analysis of nonlinear
-   evolutionary partial differential equations motivated by problems in real
-   world applications, such as porous media flows, traffic control systems,
-   shallow water flows, geophysical fluid flows, multi-phase fluid flows,
-   magnetohydrodynamics, bio-fluid flows, chemotaxis, solid tumor growth,
-   cardiovascular flows, population dynamics, and epidemiology.
+I am an Associate Professor and Director of Graduate Studies at the Mathematics Department of Tulane University. Before 
+joining Tulane in 2012, I was a Visiting Assistant Professor of Matehmatics at the University of Iowa from 2011 to 2012. 
+Prior to that, I was a Postdoctoral Researcher at the Mathematical Biosciences Institute of the Ohio State University 
+from 2009 to 2011. I obtained my Ph.D. in Mathematics from the Georgia Institute of Technology in 2009. My B.S. and M.S. 
+degrees were granted by the University of Science and Technology of China in 2001 and 2004, respectively.
+
+My research is generally in the area of nonlinear partial differential equations (PDEs). The primary goal of my research is to 
+understand the qualitative and quantitative properties of nonlienar PDE models, and how the properties can help interpret 
+real world phenomena. My current research projects are tied to mathematical biology and fluid dynamics, giving priority to 
+chemotaxis, geophyiscal flow, two-phase flow and bio-fluid flows. Alongside mathematical research, I am also keen to educate 
+and train young talents. 
