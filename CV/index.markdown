@@ -3,8 +3,6 @@ layout: default
 title: CV
 ---
 
-Here is a link for [my CV](/CV/cv.pdf) if it doesn't appear automatically. (last update: {{ "now" | date: "%a, %b %d, %y" }})
-
 <!--<style>
 .pdfobject-container {    
 	width: 600px;
