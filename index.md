@@ -6,7 +6,7 @@ title: Kyle Kun Zhao
 # Welcome!
 
 
-I am an Associate Professor and Director of Graduate Studies at the Mathematics Department of Tulane University. Before 
+I am an Associate Professor at the Mathematics Department of Tulane University. Before 
 joining Tulane in 2012, I was a Visiting Assistant Professor of Matehmatics at the University of Iowa from 2011 to 2012. 
 Prior to that, I was a Postdoctoral Researcher at the Mathematical Biosciences Institute of the Ohio State University 
 from 2009 to 2011. I obtained my Ph.D. in Mathematics from the Georgia Institute of Technology in 2009. My B.S. and M.S. 
